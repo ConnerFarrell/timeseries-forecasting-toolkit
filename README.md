@@ -4,8 +4,6 @@
 This project implements ARIMA and GARCH models with a **scikit-learn–style API**, built from scratch using NumPy, pandas, and SciPy.  
 It includes **walk-forward cross-validation** for out-of-sample testing on financial and macroeconomic data.
 
-The models are designed to connect econometrics coursework with quantitative finance practice, while keeping APIs recruiter- and industry-friendly.
-
 ---
 
 ## Key Features
